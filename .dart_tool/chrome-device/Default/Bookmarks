@@ -1,0 +1,80 @@
+{
+   "checksum": "71fc8bc0326ab1a910ab24468efe48c6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13323095209123552",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13323095209123558",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13237313534587185",
+            "date_last_used": "0",
+            "guid": "80f342a5-41ee-4095-a16a-5f9a9a94676f",
+            "id": "5",
+            "name": "BTCL | Bangladesh Telecommunications Company Limited",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.btcl.com.bd/"
+         }, {
+            "date_added": "13314608408382762",
+            "date_last_used": "0",
+            "guid": "42aa59e6-75f2-460e-bc53-26d94afe5311",
+            "id": "6",
+            "name": "Account | ZenMate VPN",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://account.zenmate.com/en_US/account"
+         }, {
+            "date_added": "13316461213012764",
+            "date_last_used": "0",
+            "guid": "00f32d4c-41bf-4475-aeab-8ceb5f6c2a85",
+            "id": "7",
+            "name": "dfgszdrtfert e - Google Docs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1-N24xsSgOEoXpTZzT8kflgb9t7-bev34vUk47K7T-Dw/edit"
+         }, {
+            "date_added": "13317001654874308",
+            "date_last_used": "0",
+            "guid": "60782c24-7bc4-40f7-b2e4-e68415d2e5ef",
+            "id": "8",
+            "name": "C++ expected a file name - Search",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=C%2b%2b+expected+a+file+name"
+         } ],
+         "date_added": "13323095209123571",
+         "date_last_used": "0",
+         "date_modified": "13317001654874308",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCOI7WqWGAQAAEgAgASoYOEt6eDc0ODlBV2RCNkxaczdRM0hwZz09oAYHEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGNlNjNlNDAwLTFlNjItNTBjYi1iYmJlLTA2MzU1YmZkYjA3MxgAIAAoADD14NmwszA4irTu8+0vQIq07vPtL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASpwEIBxKiAQocZnVuNlE4dG8wNzFTcllqQWVpWStsc0hic3lVPRIkMDBmMzJkNGMtNDFiZi00NDc1LWFlYWItOGNlYjVmNmMyYTg1GAAgACgAMMqF6dHUMDjdhenR1DBA3YXp0dQwShx0UEN2UlVTcVlkN1lhejh2Yy9qazE4N0IvaTg9Wh4iHGprcTJnZUlOQ1NhSnFMeG1sQXE5TWd0d3JJVT1l1UdNNBKnAQgGEqIBChxTMEJDNitkSlFaOE9CUzdXQWl1RlVwZ0tOTUE9EiQ0MmFhNTllNi03NWYyLTQ2MGUtYmM1My0yNmQ5NGFmZTUzMTEYACAAKAAw/oyr3s0wOKuNq97NMECrjavezTBKHDZwNDVaYkNOR0JPRGVGVndlc0Q1TFFpcVBTMD1aHiIcVDNNbHVwUCtGMlVwNm5HbEdBQVpLczFHcHpZPWWqb5N7EokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDNlZjFiOWMzLTk3NjctNTZiMi04ZWI5LWViNDQyNTk1YjJjZRgAIAAoADD14NmwszA4zLPu8+0vQMyz7vPtL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASpwEIBRKiAQocdlhFM0Vub1kwaVcwZWp5QnlPbzRjTnJGQ0tJPRIkODBmMzQyYTUtNDFlZS00MDk1LWExNmEtNWY5YTlhOTQ2NzZmGAAgACgAMI2Nw9WyMDj61LGL8S9A+tSxi/EvShwwaUFidHRabmgwYW1KWU02T2dVbFFSQm9BU2c9Wh4iHDV6MTlCcy9kdGQ4SXBQY0FxcEg4UlFQcU0xUT1lckudHRKnAQgIEqIBChx6alUxMk13aXB6Sy9LWTdEUXNraEZJZGxpRXc9EiQ2MDc4MmMyNC03YmM0LTQwZjctYjJlNC1lNjg0MTVkMmU1ZWYYACAAKAAwzKjD09YwONyow9PWMEDcqMPT1jBKHHd3bFIwUmJRZXo4WEppK2VEOXpHSER6ak85RT1aHiIcb3M4bm41WmpRT0s2T2Z4aElTS2t4cTJ0b3ZRPWV7Hj2mEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDJhNDA2NDdiLWQ4MWEtNTY3Mi04Y2UxLWQ3ZWExNWFiZmY3NRgAIAAoADD14NmwszA4vLPu8+0vQLyz7vPtL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}
